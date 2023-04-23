@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-div {
+    background-color: #fa84a2;
+}
+
+.final {
+    text-align: center;
+    padding-top: 4px;
+}
+
+.heading {
+    font-size: 15px;
+}
+
+.paragraph {
+    font-size: 6px;
+}
+
+.line1 {
+    border-bottom: 2px solid #0c0d3b;
+}
+
+.line {
+    border-bottom: 2px solid #0c0d3b;
+    border-left: 2px solid #0c0d3b;
+}
+
+.border {
+    width: 200px;
+}
+
+.inc {
+    font-size: 250%;
+}
+
+.inc1 {
+    font-size: 150%;
+    border: 4px solid black;
+    border-radius: 30px;
+    padding: 5px;
+}
+
+.sp-para {
+    font-weight: bold;
+}
+
+.years2 {
+    font-size: 7px;
+
+}
+
+.years {
+    font-size: 6px;
+}
+
+.years1 {
+    font-size: 6px;
+}
+
+.cir {
+    font-size: 4px;
+}
+
+.para3 {
+    font-size: 7px;
+}
+
+.para4 {
+    font-size: 6px;
+}
+
+.line3-right {
+    border-left: 2px solid #0c0d3b;
+    border-top: 2px solid #0c0d3b;
+    border-bottom: 2px solid #0c0d3b;
+}
+
+.line3-left {
+    border-right: 2px solid #0c0d3b;
+    border-top: 2px solid #0c0d3b;
+    border-bottom: 2px solid #0c0d3b;
+}
+
+.top {
+    border-top: 2px solid #0c0d3b;
+    border-bottom: 2px solid #0c0d3b;
+}
+
+.down {
+    padding-top: 10px;
+}
+
+.img1 {
+    font-size: 29px;
+    background-color: #66647d;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+.img-para {
+    font-size: 10px;
+}
+
+.last-line {
+    border-bottom: 2px solid #0c0d3b;
+
+}
+
+.cha {
+    font-size: 7px;
+}
+
+.inc2 {
+    padding: 7px;
+    border-radius: 37px;
+}
+
+.ed {
+    border-radius: 30px;
+    padding: 6px;
+}
